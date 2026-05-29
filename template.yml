@@ -10,7 +10,7 @@ Parameters:
   BranchName:
     Description: The branch name to use with your CodeConnections connection.
     Type: String
-    Default: main
+    Default: master
   CodePipelineName:
     Description: The CodePipeline pipeline name that will deploy to your CloudFormation stack.
     Type: String
